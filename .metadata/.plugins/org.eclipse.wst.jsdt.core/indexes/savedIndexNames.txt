@@ -1,0 +1,9 @@
+INDEX VERSION 1.3+G:\Cart\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3429234490.index
+287736444.index
+3192746662.index
+3025426473.index
+2904348291.index
+3274806904.index
+2904348291.index
+473013953.index

@@ -1,0 +1,19 @@
+
+Jun 20, 2017 11:50:50.89 NEW SESSION
+Jun 20, 2017 11:50:50.89 [GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+Jun 20, 2017 11:50:53.87 [GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+Jun 20, 2017 11:59:23.85 1497940163849	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+Jun 20, 2017 11:59:23.94 1497940163879	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+Jun 20, 2017 11:59:23.94 1497940163906	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Jun 20, 2017 11:59:23.94 1497940163930	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+Jun 20, 2017 11:59:23.96 1497940163964	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+Jun 20, 2017 11:59:24.04 1497940164046	addons.update-checker	WARN	Update manifest for followonsearch@mozilla.com did not contain an updates property
+Jun 20, 2017 12:01:26.74 1497940286749	addons.xpi	WARN	Add-on web2pdfextension@web2pdf.adobedotcom is not correctly signed.
+Jun 20, 2017 12:03:22.54 1497940402540	addons.xpi	WARN	Add-on web2pdfextension@web2pdf.adobedotcom is not correctly signed.
+Jun 20, 2017 12:45:40.26 [GPU 2124] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jun 20, 2017 13:09:40.22 [GPU 2124] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jun 20, 2017 13:09:40.22 [GPU 2124] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+Jun 22, 2017 11:29:03.90 NEW SESSION
+Jun 22, 2017 11:29:03.90 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+Jun 22, 2017 11:29:07.59 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0

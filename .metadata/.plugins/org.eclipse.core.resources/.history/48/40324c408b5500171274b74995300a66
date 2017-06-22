@@ -1,0 +1,10 @@
+package com.niit.handler;
+
+import com.niit.model.CartItem;
+
+public class Demohandler {
+	
+	public CartItem initFlow(){
+		return new CartItem();
+	}
+}
